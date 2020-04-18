@@ -14,3 +14,6 @@ Adding GIT comparison lecture
 
 ## GITHub content
 Comparison with Git Repo
+
+## Contributions...
+Fork the Repo and raise pull request for review..
