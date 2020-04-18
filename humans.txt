@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Chakravarthy <role> -- <twitter>
+    Chakravarthy Meduri
+    xxx@garbage.com
+    Software engineer
 
 # THANKS
 
