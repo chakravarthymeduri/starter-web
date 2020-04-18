@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 # this is the stuff written by Chakravarthy
 This is the git project used for DevOps Training
+Adding rebase and GIT advance part
 
 ## Git comparison
 Adding GIT comparison lecture
