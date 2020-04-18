@@ -16,7 +16,13 @@
     HTML5, CSS3, Angular, jQuery, React.js
     jQuery, Modernizr
 
+
     Python programming, Ruby on Rails
 
  # Making some change
  Hello - This is very exciting to learn before modifying REBASE
+    Docker, Kubernetes, Java Programming
+
+    Python programming, Ruby on Rails
+
+
