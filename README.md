@@ -18,3 +18,5 @@ Comparison with Git Repo
 
 ## Contributions...
 Fork the Repo and raise pull request for review..
+
+This is stuff I added in Master
