@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 # this is the stuff written by Chakravarthy
+This is the git project used for DevOps Training
