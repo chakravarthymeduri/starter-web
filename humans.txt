@@ -26,3 +26,5 @@
     Python programming, Ruby on Rails
     
  Added this line in Remote Repo itself
+
+ Adding important notes on GIT stash
